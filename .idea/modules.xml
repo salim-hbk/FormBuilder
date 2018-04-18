@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FormBuilder.iml" filepath="$PROJECT_DIR$/FormBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/form_builder/form_builder.iml" filepath="$PROJECT_DIR$/form_builder/form_builder.iml" />
     </modules>
   </component>
 </project>
