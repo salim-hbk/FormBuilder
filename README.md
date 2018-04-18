@@ -62,3 +62,14 @@ lVFormContainer:=> Is Linear layout
 
 
 
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+Module level: 
+
+dependencies { compile 'com.github.salim-hbk:FormBuilder:v0.1' }
+
+
