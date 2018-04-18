@@ -70,6 +70,8 @@ allprojects {
 }
 Module level: 
 
-dependencies { compile 'com.github.salim-hbk:FormBuilder:v0.1' }
+dependencies { 
+compile 'com.github.salim-hbk:FormBuilder:v0.1' 
+}
 
 
