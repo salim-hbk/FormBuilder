@@ -1,6 +1,6 @@
 # FormBuilder
 Fast form builder
-Screen shot: 
+![](https://github.com/salim-hbk/FormBuilder/blob/master/formBuilder.png)
 
 How to use
 Form input field prepared using model file
